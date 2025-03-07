@@ -1,8 +1,5 @@
 <h1>Hi 👋, I'm Usman.</h1>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mUsman2003&label=PROFILE+VIEWS" alt="mUsman2003" /> 
-</p>
 
 <p>3rd Year Computer Science Student | Learning DevOps, Parrallel Computering and Web Development</p>
 <h2>🚀 Languages and Tools I Use</h2>
