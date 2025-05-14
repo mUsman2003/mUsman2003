@@ -1,10 +1,18 @@
-<h2 align="left">Hi 👋! I'm Usman and I'm a Computer Science Student from Pakistan</h2>
+
+
+# 👋 Hi, I'm Usman
+
+🎓 A Computer Science student at **FAST-NUCES Islamabad (6th Semester)** with a strong passion for **Backend Development** and **DevOps**.
+## 📌 Interests
+
+- Cloud-Native Development  
+- Scalable Backend Architecture  
+- CI/CD & Infrastructure Automation  
+- Microservices & Container Orchestration
 
 
 
-
-
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -50,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
+##
 
 <div align="left">
   
@@ -59,6 +67,6 @@
   </a>
 </div>
 
-###
+##
 
 
