@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Usman
 
-🎓 A Computer Science student at **FAST-NUCES Islamabad (6th Semester)** with a strong passion for **Backend Development** and **DevOps**.
+🎓 A Computer Science student at **FAST-NUCES Islamabad (8th Semester)** with a strong passion for **Backend Development** and **DevOps**.
 ## 📌 Interests
 
 - Cloud-Native Development  
